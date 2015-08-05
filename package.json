@@ -1,0 +1,20 @@
+{
+    "name": "gitbook-plugin-anchor-navigation",
+    "description": "Add anchor navigation and goto Top to your Gitbook",
+    "main": "index.js",
+    "version": "0.0.1",
+    "license": "Apache 2",
+    "author": "yaneryou<xxdawei@gmail.com>",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/yaneryou/gitbook-plugin-anchor-navigation",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yaneryou/gitbook-plugin-anchor-navigation.git"
+    },
+    "dependencies": {
+        "cheerio": "*",
+        "underscore": "*"
+    }
+}
